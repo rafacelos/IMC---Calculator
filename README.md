@@ -1,6 +1,6 @@
 <h1 align="center"> IMC/BMI - Calculator </h1>
 
-<p align="center"> Deploy Link - https://rafacelos.github.io/NLW-Cup-Card/</p>
+<p align="center"> Deploy Link - https://rafacelos.github.io/IMC-Calculator/</p>
 
 <p align="center">
   Body mass index (BMI) calculator.
